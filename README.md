@@ -3,7 +3,7 @@
 Create with React + TypeScript + Vite
 
 
-Live demo → **https://github-explorer.vercel.app](https://git-explorer.ituaja.tech**
+Live demo → **https://git-explorer.ituaja.tech**
 
 
 
