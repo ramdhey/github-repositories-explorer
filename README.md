@@ -20,15 +20,16 @@ Fully responsive layout for both mobile and desktop devices, built with Chakra U
 Comprehensive unit and integration tests using Vitest, React Testing Library, and (optionally) MSW for API mocking.
 
 ## 🛠 Tech Stack
-| Category | Library / Tool |
-|----------|----------------|
-| UI       | **React 19**, **TypeScript**, Vite |
-| Styling  | ChakraUI |
-| Data Fetching | fetch API |
-| State    | Zustand |
-| Testing  | Vitest, @testing-library/react, MSW |
-| Linting  | ESLint, Prettier |
-| CI / CD  | Vercel |
+| Category     | Library / Tool |
+|----------    |----------------|
+| FrameWork    | **React 19**, Vite |
+| Programming  | **TypeScript** |
+| Styling      | ChakraUI |
+| Data Fetching| fetch API |
+| State        | Zustand |
+| Testing      | Vitest, @testing-library/react, MSW |
+| Linting      | ESLint, Prettier |
+| CI / CD      | Vercel |
 
 ## 📸 Screenshots
 | Desktop |
