@@ -6,7 +6,6 @@ import { render, screen, fireEvent } from "@testing-library/react";
 import {
   ColorModeProvider,
   ColorModeButton,
-  useColorMode,
   useColorModeValue,
 } from "../color-mode";
 import { useTheme } from "next-themes";

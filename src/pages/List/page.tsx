@@ -55,7 +55,7 @@ interface RepoItemProps {
   isLast: boolean;
 }
 
-const RepoItem = memo(({ owner, repo, isLast }: RepoItemProps) => (
+const RepoItem = memo(({ repo, isLast }: RepoItemProps) => (
   <Card.Root
     asChild
     bg="gray.700"
@@ -161,7 +161,7 @@ const UserCard = ({ login, avatar_url }: UserCardProps) => {
 };
 
 export default function ListPage() {
-  const { query, users, loading, setQuery, search, init } = useGithub();
+  const { query, users, loading, setQuery, search } = useGithub();
 
   //   useEffect(() => {
   //     init();
